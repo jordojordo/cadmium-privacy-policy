@@ -5,7 +5,7 @@ Users may not post or reproduce any Company Web site content,
 copyrighted material or trademarks without obtaining prior consent to
 the owners of the rights.
 
-This entire Website is copyrighted © 2000 - \<% =Year(Now) %\>
+This entire Website is copyrighted © 2000 - 2020
 CadmiumCD, LLC, 19 Newport Drive, Suite 101, Forest Hill, Maryland
 21050. All rights reserved. Any rights not expressly granted herein are
 reserved.
