@@ -307,13 +307,19 @@ address. Each of these is discussed below.
     to our Website.
 -   The following table describes the types of cookies we use:
 
-|--------------------------|--------------------------|--------------------------|
+| Cookie Type | Purpose | Duration |
+|---|---|---|
+| Session | Stored only Temporarily during a browsing session | Deleted from the user’s device when the browser is closed |
+| Persistent | This type of cookie is saved on your computer for a fixed period (usually a year or longer) and is not deleted when the browser is closed. Persistent cookies are used where we need to know who you are for more than one browsing session. For example, we use this type of cookie to store your preferences, so that they are remembered for the next visit. | Up to 6 months |
+| Third Party | These are installed by third parties with the aim of collecting certain information to carry out various research into behavior, demographics, site usage etc., such as [Salesforce Pardot](https://pardot.com) and [Sumo](https://sumo.com). | Up to 13 months |
+
++--------------------------+--------------------------+--------------------------+
 | Cookie Type              | Purpose                  | Duration                 |
-|--------------------------|--------------------------|--------------------------|
++--------------------------+--------------------------+--------------------------+
 | Session                  | Stored only Temporarily  | Deleted from the user’s  |
 |                          | during a browsing        | device when the browser  |
 |                          | session                  | is closed                |
-|--------------------------|--------------------------|--------------------------|
++--------------------------+--------------------------+--------------------------+
 | Persistent               | This type of cookie is   | Up to 6 months           |
 |                          | saved on your computer   |                          |
 |                          | for a fixed period       |                          |
@@ -330,7 +336,7 @@ address. Each of these is discussed below.
 |                          | your preferences, so     |                          |
 |                          | that they are remembered |                          |
 |                          | for the next visit.      |                          |
-|--------------------------|--------------------------|--------------------------|
++--------------------------+--------------------------+--------------------------+
 | Third Party              | These are installed by   | Up to 13 months          |
 |                          | third parties with the   |                          |
 |                          | aim of collecting        |                          |
@@ -345,7 +351,7 @@ address. Each of these is discussed below.
 |                          | and                      |                          |
 |                          | [Sumo](https://sumo.com) |                          |
 |                          | .                        |                          |
-|--------------------------|--------------------------|--------------------------|
++--------------------------+--------------------------+--------------------------+
 
 We use the above-described third-party cookies to implement tracking
 technology on our Website. This allows us to display advertising that is
