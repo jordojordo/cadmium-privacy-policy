@@ -307,13 +307,13 @@ address. Each of these is discussed below.
     to our Website.
 -   The following table describes the types of cookies we use:
 
-+--------------------------+--------------------------+--------------------------+
+|--------------------------|--------------------------|--------------------------|
 | Cookie Type              | Purpose                  | Duration                 |
-+--------------------------+--------------------------+--------------------------+
+|--------------------------|--------------------------|--------------------------|
 | Session                  | Stored only Temporarily  | Deleted from the user’s  |
 |                          | during a browsing        | device when the browser  |
 |                          | session                  | is closed                |
-+--------------------------+--------------------------+--------------------------+
+|--------------------------|--------------------------|--------------------------|
 | Persistent               | This type of cookie is   | Up to 6 months           |
 |                          | saved on your computer   |                          |
 |                          | for a fixed period       |                          |
@@ -330,7 +330,7 @@ address. Each of these is discussed below.
 |                          | your preferences, so     |                          |
 |                          | that they are remembered |                          |
 |                          | for the next visit.      |                          |
-+--------------------------+--------------------------+--------------------------+
+|--------------------------|--------------------------|--------------------------|
 | Third Party              | These are installed by   | Up to 13 months          |
 |                          | third parties with the   |                          |
 |                          | aim of collecting        |                          |
@@ -345,7 +345,7 @@ address. Each of these is discussed below.
 |                          | and                      |                          |
 |                          | [Sumo](https://sumo.com) |                          |
 |                          | .                        |                          |
-+--------------------------+--------------------------+--------------------------+
+|--------------------------|--------------------------|--------------------------|
 
 We use the above-described third-party cookies to implement tracking
 technology on our Website. This allows us to display advertising that is
