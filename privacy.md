@@ -1,7 +1,6 @@
-**Effective Date:** March 4, 2019****
+**Effective Date:** March 4, 2019\*\*\*\*
 
-Highlights of Our Privacy Policy
---------------------------------
+## Highlights of Our Privacy Policy
 
 **Scope**
 
@@ -26,12 +25,12 @@ through other sites, products, or services not approved by us.
 
 Our Privacy Policy describes:
 
--   How and why we collect your Personal Information;
--   How your Personal Information is used and protected;
--   When and with whom we share your Personal Information; and
--   What choices you can make about how we collect, use, and share your
-    Personal Information.
--   How we store, use, transfer, and retain your Personal Information.
+- How and why we collect your Personal Information;
+- How your Personal Information is used and protected;
+- When and with whom we share your Personal Information; and
+- What choices you can make about how we collect, use, and share your
+  Personal Information.
+- How we store, use, transfer, and retain your Personal Information.
 
 If you are a resident of or subject to data privacy laws or regulations
 of a country outside of the United States, please see the additional
@@ -57,15 +56,15 @@ Websites through the use of various technologies, including cookies.
 
 **Uses**
 
--   To create a user account.
--   To fulfill your requests by us or by others involved in fulfillment.
--   To contact you for customer satisfaction surveys, market research or
-    in connection with certain transactions.
--   To support products or services you have obtained from us.
--   To share with our service providers who provide services to us in
-    support of our business.
--   To personalize your experience while you are on our Websites, make
-    navigation easier, and for Website usage statistics.
+- To create a user account.
+- To fulfill your requests by us or by others involved in fulfillment.
+- To contact you for customer satisfaction surveys, market research or
+  in connection with certain transactions.
+- To support products or services you have obtained from us.
+- To share with our service providers who provide services to us in
+  support of our business.
+- To personalize your experience while you are on our Websites, make
+  navigation easier, and for Website usage statistics.
 
 **Your Choices**
 
@@ -86,8 +85,7 @@ visiting
 You may contact us using the Contact Information provided at the end of
 this Privacy Policy.
 
-Details of Our Privacy Policy
------------------------------
+## Details of Our Privacy Policy
 
 By using or accessing our Website or the Services in any manner, you
 acknowledge that you accept the practices and policies described in this
@@ -102,20 +100,19 @@ Terms of Service (available at
 capitalized terms we use in this Privacy Policy without defining them
 have the definitions given to them in the Terms.
 
-What Does This Privacy Policy Cover?
-------------------------------------
+## What Does This Privacy Policy Cover?
 
 This Privacy Policy applies to information we collect:
 
--   In email, text and other electronic messages between you and us.
--   When and where available, through mobile and desktop applications,
-    which provide dedicated non-browser-based interaction between you
-    and us
--   When you interact with our advertising and applications on
-    third-party websites and services, if those applications or
-    advertising include links to this policy.
--   We may also collect Personal Information from you through means
-    other than our Website.
+- In email, text and other electronic messages between you and us.
+- When and where available, through mobile and desktop applications,
+  which provide dedicated non-browser-based interaction between you
+  and us
+- When you interact with our advertising and applications on
+  third-party websites and services, if those applications or
+  advertising include links to this policy.
+- We may also collect Personal Information from you through means
+  other than our Website.
 
 Other than as stated herein, this Privacy Policy does not apply to
 information collected by any third party (including our affiliates and
@@ -156,8 +153,7 @@ Services, and before interacting with any of these sites you are advised
 to review their rules and policies before providing them with any
 private information.
 
-Individuals under the Age of 13
--------------------------------
+## Individuals under the Age of 13
 
 As noted in the Terms, we do not knowingly collect, solicit or maintain
 Personal Information from anyone under the age of 13 or knowingly allow
@@ -170,8 +166,7 @@ a child under age 13 without verification of parental consent, we will
 use commercially reasonable efforts to delete that information from our
 database. Please contact us if you have any concerns.
 
-Changes to Our Privacy Policy
------------------------------
+## Changes to Our Privacy Policy
 
 We’re constantly working to improve our Services, so we may need to
 change this Privacy Policy from time to time as well, but we will alert
@@ -186,8 +181,7 @@ have been posted, that means you agree to all of the changes. Use of
 information we collect now is subject to the Privacy Policy in effect at
 the time such information is collected.
 
-Information We Collect About You and How We Collect It
-------------------------------------------------------
+## Information We Collect About You and How We Collect It
 
 We collect several types of information from and about users, including
 Personal Information that is about you but individually does not
@@ -197,31 +191,31 @@ our Website and usage details.
 
 We collect this information:
 
--   Directly from you when you provide it to us. When you sign up for
-    the Services, you provide us with information such as your name and
-    email address. We may also collect information from your public
-    social media accounts.
--   Automatically as you navigate through the Website. Information
-    collected automatically may include usage details, IP addresses, and
-    information collected through cookies, web beacons and other
-    tracking technologies.
--   From third parties, for example, our business partners.
+- Directly from you when you provide it to us. When you sign up for
+  the Services, you provide us with information such as your name and
+  email address. We may also collect information from your public
+  social media accounts.
+- Automatically as you navigate through the Website. Information
+  collected automatically may include usage details, IP addresses, and
+  information collected through cookies, web beacons and other
+  tracking technologies.
+- From third parties, for example, our business partners.
 
 **Information You Provide to Us.**
 
 The information we collect on or through our Website may include:
 
--   Information that you provide by filling in forms on our Website.
-    This includes information provided at the time of registering to use
-    our Website, subscribing to or purchasing our services, posting
-    material (where permitted) or requesting further services. We may
-    also ask you for information when you report a problem with our
-    Website.
--   Records and copies of your correspondence (including email
-    addresses), if you contact us.
--   Your responses to surveys that we might ask you to complete for
-    research purposes.
--   Your search queries on the Website.
+- Information that you provide by filling in forms on our Website.
+  This includes information provided at the time of registering to use
+  our Website, subscribing to or purchasing our services, posting
+  material (where permitted) or requesting further services. We may
+  also ask you for information when you report a problem with our
+  Website.
+- Records and copies of your correspondence (including email
+  addresses), if you contact us.
+- Your responses to surveys that we might ask you to complete for
+  research purposes.
+- Your search queries on the Website.
 
 **Information We Collect Through Automatic Data Collection
 Technologies**
@@ -230,14 +224,14 @@ As you navigate through and interact with our Website, we may use
 automatic data collection technologies to collect certain information
 about your equipment, browsing actions and patterns, including:
 
--   Details of your visits to our Website, including, but not limited
-    to, traffic data, geolocation data, logs and other communication
-    data and the resources that you access and use on the Website.
--   Information about your computer and internet connection, including
-    your IP address, operating system, browser type, clickstream
-    patterns, the URL of the most recent website you visited before
-    coming to our Website, the amount of time you spent on our Website,
-    and the pages you viewed while on our Website.
+- Details of your visits to our Website, including, but not limited
+  to, traffic data, geolocation data, logs and other communication
+  data and the resources that you access and use on the Website.
+- Information about your computer and internet connection, including
+  your IP address, operating system, browser type, clickstream
+  patterns, the URL of the most recent website you visited before
+  coming to our Website, the amount of time you spent on our Website,
+  and the pages you viewed while on our Website.
 
 The information we collect automatically is statistical data and may
 include Personal Information, but we may maintain it or associate it
@@ -246,72 +240,72 @@ parties. It helps us to improve our Website and to deliver a better and
 more personalized service, including, but not limited to, by enabling us
 to:
 
--   Estimate our audience size and usage patterns.
--   Store information about your preferences, allowing us to customize
-    and improve our Website.
--   Speed up your searches.
--   Recognize you when you return to our Website.
+- Estimate our audience size and usage patterns.
+- Store information about your preferences, allowing us to customize
+  and improve our Website.
+- Speed up your searches.
+- Recognize you when you return to our Website.
 
 The technologies we use for this automatic data collection may include
 cookies, flash cookies, web beacons, pixel tracking, GIF and/or IP
 address. Each of these is discussed below.
 
-*Cookies (or browser cookies)*
+_Cookies (or browser cookies)_
 
--   A cookie is a small file placed on the hard drive of your computer
-    or mobile device. It may contain certain data, including, but not
-    limited to: the name of the server that has placed it there, an
-    identifier in the form of a unique number, and, an expiration date
-    (some cookies only). Cookies are managed by the web browser on your
-    computer (Internet Explorer, Firefox, Safari or Google Chrome).
--   Different types of cookies which have different purposes are used on
-    our Website.
+- A cookie is a small file placed on the hard drive of your computer
+  or mobile device. It may contain certain data, including, but not
+  limited to: the name of the server that has placed it there, an
+  identifier in the form of a unique number, and, an expiration date
+  (some cookies only). Cookies are managed by the web browser on your
+  computer (Internet Explorer, Firefox, Safari or Google Chrome).
+- Different types of cookies which have different purposes are used on
+  our Website.
 
-*Essential Cookies*
+_Essential Cookies_
 
--   These cookies are essential to allow you to browse our Website and
-    use its functions. Without them, services such as shopping baskets
-    and electronic invoicing would not be able to work.
+- These cookies are essential to allow you to browse our Website and
+  use its functions. Without them, services such as shopping baskets
+  and electronic invoicing would not be able to work.
 
-*Performance Cookies*
+_Performance Cookies_
 
--   These cookies collect information on the use of our Website, such as
-    which pages are consulted most often. This information enable us to
-    optimize our Website and simplify browsing. Performance cookies also
-    enable our affiliates and partners to find out whether you have
-    accessed one of our websites from their site and whether your visit
-    has led to the use or purchase of a product or service from our
-    Website, including the references for the product or service
-    purchased. These cookies do not collect any information which could
-    be used to identify you. All the information collected is
-    aggregated, and therefore anonymous.
+- These cookies collect information on the use of our Website, such as
+  which pages are consulted most often. This information enable us to
+  optimize our Website and simplify browsing. Performance cookies also
+  enable our affiliates and partners to find out whether you have
+  accessed one of our websites from their site and whether your visit
+  has led to the use or purchase of a product or service from our
+  Website, including the references for the product or service
+  purchased. These cookies do not collect any information which could
+  be used to identify you. All the information collected is
+  aggregated, and therefore anonymous.
 
-*Functionality Cookies*
+_Functionality Cookies_
 
--   These cookies enable our Website to remember the choices you have
-    made when browsing. For example, we can store your geographical
-    location in a cookie so that the Website corresponding to your area
-    is shown. We can also remember your preferences, such as the text
-    size, font and other customizable aspects of the Website.
-    Functionality cookies may also be able to keep track of the products
-    or videos consulted to avoid repetition. The information collected
-    by these cookies cannot be used to identify you and cannot monitor
-    your browsing activity on sites which do not belong to us.
--   It is possible that you will comes across third-party cookies on
-    some pages of sites that are not under our control.
--   You may refuse to accept browser cookies by activating the
-    appropriate setting in your browser. However, if you select this
-    setting you may be unable to access certain parts of our Website.
-    Unless you have adjusted your browser setting so that it will refuse
-    cookies, our system will issue cookies when you direct your browser
-    to our Website.
--   The following table describes the types of cookies we use:
+- These cookies enable our Website to remember the choices you have
+  made when browsing. For example, we can store your geographical
+  location in a cookie so that the Website corresponding to your area
+  is shown. We can also remember your preferences, such as the text
+  size, font and other customizable aspects of the Website.
+  Functionality cookies may also be able to keep track of the products
+  or videos consulted to avoid repetition. The information collected
+  by these cookies cannot be used to identify you and cannot monitor
+  your browsing activity on sites which do not belong to us.
+- It is possible that you will comes across third-party cookies on
+  some pages of sites that are not under our control.
+- You may refuse to accept browser cookies by activating the
+  appropriate setting in your browser. However, if you select this
+  setting you may be unable to access certain parts of our Website.
+  Unless you have adjusted your browser setting so that it will refuse
+  cookies, our system will issue cookies when you direct your browser
+  to our Website.
+- The following table describes the types of cookies we use:
 
-| Cookie Type | Purpose | Duration |
-|---|---|---|
-| Session | Stored only Temporarily during a browsing session | Deleted from the user’s device when the browser is closed |
-| Persistent | This type of cookie is saved on your computer for a fixed period (usually a year or longer) and is not deleted when the browser is closed. Persistent cookies are used where we need to know who you are for more than one browsing session. For example, we use this type of cookie to store your preferences, so that they are remembered for the next visit. | Up to 6 months |
-| Third Party | These are installed by third parties with the aim of collecting certain information to carry out various research into behavior, demographics, site usage etc., such as [Salesforce Pardot](https://pardot.com) and [Sumo](https://sumo.com). | Up to 13 months |
+| Cookie Type | Purpose                                                                                                                                                                                                                                                                                                                                                         | Duration                                                  |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| Session     | Stored only Temporarily during a browsing session                                                                                                                                                                                                                                                                                                               | Deleted from the user’s device when the browser is closed |
+| Persistent  | This type of cookie is saved on your computer for a fixed period (usually a year or longer) and is not deleted when the browser is closed. Persistent cookies are used where we need to know who you are for more than one browsing session. For example, we use this type of cookie to store your preferences, so that they are remembered for the next visit. | Up to 6 months                                            |
+| Third Party | These are installed by third parties with the aim of collecting certain information to carry out various research into behavior, demographics, site usage etc., such as [Salesforce Pardot](https://pardot.com) and [Sumo](https://sumo.com).                                                                                                                   | Up to 13 months                                           |
 
 We use the above-described third-party cookies to implement tracking
 technology on our Website. This allows us to display advertising that is
@@ -328,43 +322,43 @@ Website. These also provide you with the option of preventing the use of
 cookies in the future. For more information, contact the relevant
 third-party provider.
 
--   **Flash Cookies.** Certain features of our Website may use local
-    stored objects (or Flash cookies) to collect and store information
-    about your preferences and navigation to, from and on our Website.
-    Flash cookies are not managed by the same browser settings as are
-    used for browser cookies.
--   **Web Beacons.** Pages of our Website and our emails may contain
-    small electronic files known as web beacons (also referred to as
-    clear gifs. pixel tags and single-pixel gifs) that permit us, for
-    example, to count users who have visited those pages or opened an
-    email and for other related website statistics (for example,
-    recording the popularity of certain website content and verifying
-    system and server integrity).
--   **Pixel Tracking** **.** In addition to using Cookies, the Website
-    may employ “pixel tracking”, a common process which may be used in
-    connection with advertisements on other sites. Pixel tracking
-    involves the use of pixel tags that are not visible to the user and
-    consist of a few lines of computer code. Pixel tracking measures the
-    effectiveness of advertisements and compiles aggregate and specific
-    usage statistics. A “pixel tag” is an invisible tag placed on
-    certain pages of websites that is used to track an individual user’s
-    activity. We may access these pixel tags to identify activity and
-    interests that may allow us to better match our goods, services, and
-    other offers with your interests and needs. For example, if you
-    visit our Website from an advertisement on another website, the
-    pixel tag will allow the advertiser to track that its advertisement
-    brought you to the Website. If you visit our Website, and we link
-    you to another website, we may also be able to determine that you
-    were sent to and/or transacted with a third-party website. This data
-    is collected for use in our marketing and research.
--   **GIF.** We may use tiny images known as clear GIFs to track
-    behavior of users, including statistics on who opens our emails.
--   **IP Address.** Our servers automatically record certain log file
-    information reported from your browser when you access the Services.
-    These server logs may include information such as which pages of the
-    Service you visited, your internet protocol (“IP”) address, browser
-    type, and other information on how you interact with the Services.
-    These log files are generally deleted after one week.
+- **Flash Cookies.** Certain features of our Website may use local
+  stored objects (or Flash cookies) to collect and store information
+  about your preferences and navigation to, from and on our Website.
+  Flash cookies are not managed by the same browser settings as are
+  used for browser cookies.
+- **Web Beacons.** Pages of our Website and our emails may contain
+  small electronic files known as web beacons (also referred to as
+  clear gifs. pixel tags and single-pixel gifs) that permit us, for
+  example, to count users who have visited those pages or opened an
+  email and for other related website statistics (for example,
+  recording the popularity of certain website content and verifying
+  system and server integrity).
+- **Pixel Tracking** **.** In addition to using Cookies, the Website
+  may employ “pixel tracking”, a common process which may be used in
+  connection with advertisements on other sites. Pixel tracking
+  involves the use of pixel tags that are not visible to the user and
+  consist of a few lines of computer code. Pixel tracking measures the
+  effectiveness of advertisements and compiles aggregate and specific
+  usage statistics. A “pixel tag” is an invisible tag placed on
+  certain pages of websites that is used to track an individual user’s
+  activity. We may access these pixel tags to identify activity and
+  interests that may allow us to better match our goods, services, and
+  other offers with your interests and needs. For example, if you
+  visit our Website from an advertisement on another website, the
+  pixel tag will allow the advertiser to track that its advertisement
+  brought you to the Website. If you visit our Website, and we link
+  you to another website, we may also be able to determine that you
+  were sent to and/or transacted with a third-party website. This data
+  is collected for use in our marketing and research.
+- **GIF.** We may use tiny images known as clear GIFs to track
+  behavior of users, including statistics on who opens our emails.
+- **IP Address.** Our servers automatically record certain log file
+  information reported from your browser when you access the Services.
+  These server logs may include information such as which pages of the
+  Service you visited, your internet protocol (“IP”) address, browser
+  type, and other information on how you interact with the Services.
+  These log files are generally deleted after one week.
 
 **Posted Content**
 
@@ -377,8 +371,7 @@ includes, but is not limited to, use, reproduce, modify, publish, list
 information regarding, edit, translate, distribute, publicly display,
 publicly perform, and make derivative works of the content.
 
-Third-Party Use of Cookies and Other Tracking Technologies
-----------------------------------------------------------
+## Third-Party Use of Cookies and Other Tracking Technologies
 
 Some content or applications, including advertisements, on the Website
 are served by third-parties, including advertisers, ad networks and
@@ -426,63 +419,62 @@ Google Ad Settings page. Alternatively, you can opt out by visiting the
 Network Advertising Initiative Opt Out page or by using the Google
 Analytics Opt Out Browser add on.
 
-How We Use Your Information
----------------------------
+## How We Use Your Information
 
 We use information that we collect about you or that you provide to us,
 including any Personal Information:
 
--   To present our Website and its contents to you.
--   To provide you with information on products or services that you
-    request from us.
--   To provide you with services or process transactions that you have
-    requested.
--   To provide you with notices about your account.
--   To communicate with you.
--   To respond to your questions or other requests.
--   To contact you with regard to this Website.
--   To process any applications, changes to your account information, or
-    process payments from you.
--   To process other information or Personal Information that you submit
-    through the Website.
--   To conduct user surveys.
--   To ask for ratings and reviews of our Website, services, and/or
-    products.
--   To contact you regarding a sweepstakes, contest or promotion in
-    which you have participated.
--   To notify you about changes to our Website, our policies, terms or
-    any products or services we offer or provide though it.
--   To allow you to participate in interactive features on our Website.
--   To provide access to restricted parts of our Website.
--   To request your participation in surveys, focus groups, or other
-    initiatives which help us to gather information used to develop and
-    enhance our products and services.
--   To determine eligibility for membership, credentials, designations,
-    or volunteer opportunities
--   To evaluate your performance on continued learning courses and
-    assist you in the tracking of your progress.
--   For examination scheduling, administration and registration
-    purposes.
--   To serve relevant advertisements to you when you visit our Websites
-    or other third-party sites (including social media platforms).
--   To enhance and improve our products and services, for example, by
-    performing internal research, analyzing user trends and measuring
-    demographics and interests.
--   Internal purposes, such as website and system administration or
-    internal audits and reviews.
--   To comply with applicable law(s) (for example, to comply with a
-    search warrant, subpoena or court order) or to carry out
-    professional ethics/conduct investigations.
--   For analyzing how the Service is used, diagnosing service or
-    technical problems, maintaining security, and personalizing content.
--   To operate, maintain, and provide to you the features and
-    functionality of the Service.
--   To provide statistics about the usage levels of the Website and
-    other related information to reputable third parties, but these
-    statistics will not include information which will allow you to be
-    identified.
--   To fulfill any other purpose for which you provide it.
--   In any other way we may describe when you provide the information.
+- To present our Website and its contents to you.
+- To provide you with information on products or services that you
+  request from us.
+- To provide you with services or process transactions that you have
+  requested.
+- To provide you with notices about your account.
+- To communicate with you.
+- To respond to your questions or other requests.
+- To contact you with regard to this Website.
+- To process any applications, changes to your account information, or
+  process payments from you.
+- To process other information or Personal Information that you submit
+  through the Website.
+- To conduct user surveys.
+- To ask for ratings and reviews of our Website, services, and/or
+  products.
+- To contact you regarding a sweepstakes, contest or promotion in
+  which you have participated.
+- To notify you about changes to our Website, our policies, terms or
+  any products or services we offer or provide though it.
+- To allow you to participate in interactive features on our Website.
+- To provide access to restricted parts of our Website.
+- To request your participation in surveys, focus groups, or other
+  initiatives which help us to gather information used to develop and
+  enhance our products and services.
+- To determine eligibility for membership, credentials, designations,
+  or volunteer opportunities
+- To evaluate your performance on continued learning courses and
+  assist you in the tracking of your progress.
+- For examination scheduling, administration and registration
+  purposes.
+- To serve relevant advertisements to you when you visit our Websites
+  or other third-party sites (including social media platforms).
+- To enhance and improve our products and services, for example, by
+  performing internal research, analyzing user trends and measuring
+  demographics and interests.
+- Internal purposes, such as website and system administration or
+  internal audits and reviews.
+- To comply with applicable law(s) (for example, to comply with a
+  search warrant, subpoena or court order) or to carry out
+  professional ethics/conduct investigations.
+- For analyzing how the Service is used, diagnosing service or
+  technical problems, maintaining security, and personalizing content.
+- To operate, maintain, and provide to you the features and
+  functionality of the Service.
+- To provide statistics about the usage levels of the Website and
+  other related information to reputable third parties, but these
+  statistics will not include information which will allow you to be
+  identified.
+- To fulfill any other purpose for which you provide it.
+- In any other way we may describe when you provide the information.
 
 We use cookies, clear gifs, and log file information to: (a) remember
 information so that you will not have to re-enter it during your visit
@@ -515,8 +507,7 @@ your consent, if you click on or otherwise interact with an
 advertisement, the advertiser may assume that you meet its target
 criteria.
 
-Social Media Plugins
---------------------
+## Social Media Plugins
 
 We integrate social media application program interfaces or plug-ins
 (Plug-ins) from social networks, including Facebook, Google+, LinkedIn,
@@ -562,10 +553,9 @@ Terms, this Privacy Policy and as required by applicable law. We have
 the right to delete all of your Personal Information and other data
 after termination of your account without notice to you.
 
-How We Share Your Information
------------------------------
+## How We Share Your Information
 
-*Personal Information:*
+_Personal Information:_
 
 We will never rent or sell your Personal Information to third parties,
 other than as noted below under the section “Disclosure/Assignment of
@@ -606,45 +596,44 @@ providers only use your Personal Data as necessary to provide the
 requested services to us and each service provider is subject to a set
 of terms consistent with this Privacy Policy.
 
--   Hosting providers for the secure storage and transmission of your
-    data
--   Learning technology and online event providers for the delivery and
-    improvement of web events and learning programs and the tracking of
-    your progress
--   Digital credential providers for the delivery of digital badges
-    earned through your participation in learning programs
--   Examination providers for the scheduling and delivery of credential
-    and designation examinations
--   Identity management providers for authentication purposes
--   Database software providers for the management and tracking of your
-    data
--   Legal and compliance consultants, such as external counsel, external
-    auditors, or tax consultants
--   Marketing providers who send communications on our behalf regarding
-    our products and services
--   Payment solution providers for the secure processing of payments you
-    provide to us
--   Publishers and learning providers who develop products on our behalf
--   Technology providers who assist in the development and management of
-    our Website properties
--   Outbound call center providers, who may perform outreach on our
-    behalf regarding our products and services
--   Fulfillment and postal vendors for the fulfillment of our products
-    and services
--   Our volunteers or committee members who perform various functions on
-    our behalf
--   Survey and research providers who perform studies on our behalf
--   Advertising partners, including social media providers, for the
-    delivery of targeted advertisements
+- Hosting providers for the secure storage and transmission of your
+  data
+- Learning technology and online event providers for the delivery and
+  improvement of web events and learning programs and the tracking of
+  your progress
+- Digital credential providers for the delivery of digital badges
+  earned through your participation in learning programs
+- Examination providers for the scheduling and delivery of credential
+  and designation examinations
+- Identity management providers for authentication purposes
+- Database software providers for the management and tracking of your
+  data
+- Legal and compliance consultants, such as external counsel, external
+  auditors, or tax consultants
+- Marketing providers who send communications on our behalf regarding
+  our products and services
+- Payment solution providers for the secure processing of payments you
+  provide to us
+- Publishers and learning providers who develop products on our behalf
+- Technology providers who assist in the development and management of
+  our Website properties
+- Outbound call center providers, who may perform outreach on our
+  behalf regarding our products and services
+- Fulfillment and postal vendors for the fulfillment of our products
+  and services
+- Our volunteers or committee members who perform various functions on
+  our behalf
+- Survey and research providers who perform studies on our behalf
+- Advertising partners, including social media providers, for the
+  delivery of targeted advertisements
 
-*De-Identified Personal Information:* We may share De-Identified
+_De-Identified Personal Information:_ We may share De-Identified
 Personal Information (such as anonymous usage data, referring/exit pages
 and URLs, IP address, platform types, number of clicks, etc.) with
 interested third parties to help them understand the usage patterns for
 certain Services.
 
-Disclosure/Assignment of Your Personal Information: Your Consent
-----------------------------------------------------------------
+## Disclosure/Assignment of Your Personal Information: Your Consent
 
 You consent to our disclosure of your Personal Information and other
 information to a potential buyer or other successor for the purpose of
@@ -658,29 +647,28 @@ merger or operation of law) of rights to your Personal Information and
 other information, with or without notice to you and without your
 further consent.
 
-Security
---------
+## Security
 
 We have implemented measures designed to secure your Personal
 Information from accidental loss and from unauthorized access, use,
 alteration and disclosure.
 
--   Your Personal Information is contained behind secured networks and a
-    firewall and is only accessible by a limited number of persons and
-    service providers who have special access rights to such systems,
-    and are required to keep the information confidential.
--   In addition, all sensitive/credit information you supply is
-    encrypted via Secure Socket Layer (SSL) technology and currently is
-    processed by [Braintree](http://braintree.com/) (though we may
-    change processors at any time and without notice).
--   Any payment transactions will be performed using our third party
-    payment processors or gateways, who will use appropriate security
-    procedures designed to protect your information.
--   Our Website is scanned on a regular basis for security holes and
-    known vulnerabilities in order to make your visit to our Website
-    safer.
--   We may store, retrieve, access, and transmit your Personal
-    Information in the US or in other countries.
+- Your Personal Information is contained behind secured networks and a
+  firewall and is only accessible by a limited number of persons and
+  service providers who have special access rights to such systems,
+  and are required to keep the information confidential.
+- In addition, all sensitive/credit information you supply is
+  encrypted via Secure Socket Layer (SSL) technology and currently is
+  processed by [Braintree](http://braintree.com/) (though we may
+  change processors at any time and without notice).
+- Any payment transactions will be performed using our third party
+  payment processors or gateways, who will use appropriate security
+  procedures designed to protect your information.
+- Our Website is scanned on a regular basis for security holes and
+  known vulnerabilities in order to make your visit to our Website
+  safer.
+- We may store, retrieve, access, and transmit your Personal
+  Information in the US or in other countries.
 
 The safety and security of your information also depends on you. Where
 we have given you (or where you have chosen) a password for access to
@@ -705,8 +693,7 @@ compromise the security of user information at any time. We are not
 responsible for circumvention of any privacy settings or security
 measures contained on the Website or used with our Services.
 
-Data Retention
---------------
+## Data Retention
 
 The time periods for which we retain your Personal Information depend on
 the purposes for which we use it. We will keep your Personal Information
@@ -721,23 +708,21 @@ information we collect may be stored and processed in servers in the
 United States and wherever we and our service providers have facilities
 around the globe.
 
-What You Can Access
--------------------
+## What You Can Access
 
 Through your account settings, you may access, and, in some cases, edit
 or delete the following information you’ve provided to us:
 
--   name and password
--   email address
--   other user profile information, including any content you have
-    uploaded to the Services
+- name and password
+- email address
+- other user profile information, including any content you have
+  uploaded to the Services
 
 The information that you can view, update, and delete may change as the
 Services change. If you have any questions about viewing or updating
 information we have on file about you, please contact us.
 
-California Online Privacy Protection Act (“CalOPPA”)
-----------------------------------------------------
+## California Online Privacy Protection Act (“CalOPPA”)
 
 Under California Civil Code Sections 1798.83-1798.84, California
 residents are entitled to ask us annually for a notice identifying the
@@ -769,8 +754,7 @@ Website page. You can change your Personal Information by contacting us.
 We honor Do Not Track signals and Do Not Track, plant cookies, or use
 advertising when a Do Not Track (DNT) browser mechanism is in place.
 
-Notices; Opting Out
--------------------
+## Notices; Opting Out
 
 By providing us with your email address (including by “following,”
 “liking,” linking your account to our Service or other services, etc.,
@@ -792,15 +776,13 @@ above. When you update information, however, we may maintain a copy of
 the unrevised information in our records. You may request deletion of
 your account by emailing us.
 
-Contact Information
--------------------
+## Contact Information
 
 To ask questions or comment about this Privacy Policy and our privacy
 practices, or for any other purposes, please contact us at
 privacy@cadmiumcd.com.
 
-Additional Information for Non-US Residents
--------------------------------------------
+## Additional Information for Non-US Residents
 
 IMPORTANT NOTICE: This Privacy Policy originates and is hosted on a
 Website located in the United States, which has different data
