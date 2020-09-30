@@ -38,6 +38,8 @@ provisions at the end of this Privacy Policy.
 
 Below are some of the highlights of the Privacy Policy.
 
+---
+
 **Personal Information**
 
 We collect your Personal Information for various purposes, such as, but
