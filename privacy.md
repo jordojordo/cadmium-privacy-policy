@@ -1,4 +1,4 @@
-**Effective Date:** March 4, 2019\*\*\*\*
+**Effective Date:** March 4, 2019
 
 ## Highlights of Our Privacy Policy
 
