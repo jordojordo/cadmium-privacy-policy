@@ -1,6 +1,3 @@
-CadmiumCD Privacy Policy
-========================
-
 **Effective Date:** March 4, 2019****
 
 Highlights of Our Privacy Policy
